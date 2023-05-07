@@ -1,14 +1,15 @@
-## Install Dependencies 
+## Install Dependencies (Root)
 ```
 npm i
 ```
-## Build
+## Build (Root)
 ```
 npm run build
 ```
-## Run
+## Run (Root)
 ```
 npm run start
 ```
+## Deployed
 
-Run all commands in root! Deployed current at `https://bbnk.onrender.com/`
+<`https://bbnk.onrender.com/`>
