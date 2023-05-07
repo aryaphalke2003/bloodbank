@@ -12,4 +12,4 @@ npm run start
 ```
 ## Deployed
 
-<`https://bbnk.onrender.com/`>
+[Blood Bank Search](bbnk.onrender.com "Blood Banks")
